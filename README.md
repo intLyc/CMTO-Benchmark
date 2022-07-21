@@ -4,6 +4,12 @@
 
 **Email: int_lyc@cug.edu.cn**
 
+
+## Note
+
+The [MTO-Platform](https://github.com/intLyc/MTO-Platform) has incorporated relevant algorithms and problems and provides convenient functions. We highly recommend using MTO-Platform for code training. [https://github.com/intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)
+
+
 ## Reference
 
 > @InProceedings{Li2022CMT-Benchmark,  
@@ -20,7 +26,3 @@
 >     numpages  = {4},  
 >     url       = {https://doi.org/10.1145/3520304.3528890},  
 > }  
-
-## Note
-
-The [MTO-Platform](https://github.com/intLyc/MTO-Platform) has incorporated relevant algorithms and problems and provides convenient functions. We highly recommend using MTO-Platform for code training. [https://github.com/intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)
